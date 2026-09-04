@@ -117,7 +117,7 @@ Aplikasi telah dilengkapi dengan bundler installer Windows otomatis via **Inno S
 
 ## 📄 Lisensi
 
-Proyek ini terlisensi di bawah MIT License.
+Proyek ini terlisensi di bawah [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
@@ -132,7 +132,8 @@ Proyek ini terlisensi di bawah MIT License.
   <br />
 
   <sub><b>SMP MUHAMMADIYAH TONJONG</b><br />
-  <i>Unggul, Islami, dan Berkemajuan</i><br />
+  <i>Islami, Kreatif, Unggul Prestasi</i><br />
   Jl. Raya Linggapura No. 46, Kec. Tonjong, Kab. Brebes, Jawa Tengah 52271</sub>
+  🌐 <a href="https://smpmuhtonjong.sch.id">smpmuhtonjong.sch.id</a></sub>
 
 </div>
