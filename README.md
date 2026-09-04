@@ -127,7 +127,7 @@ Proyek ini terlisensi di bawah MIT License.
 
   <p>Didesain, dikembangkan, dan dipelihara dengan penuh ketelitian oleh:</p>
 
-  <b>✨ Dibuat oleh Tim IT / Tim Kreatif SMP Muhammadiyah Tonjong ✨</b>
+  <b>✨ Tim IT / Tim Kreatif SMP Muhammadiyah Tonjong ✨</b>
 
   <br />
 
