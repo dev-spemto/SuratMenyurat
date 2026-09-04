@@ -133,7 +133,7 @@ Proyek ini terlisensi di bawah [MIT License](https://opensource.org/licenses/MIT
 
   <sub><b>SMP MUHAMMADIYAH TONJONG</b><br />
   <i>Islami, Kreatif, Unggul Prestasi</i><br />
-  Jl. Raya Linggapura No. 46, Kec. Tonjong, Kab. Brebes, Jawa Tengah 52271</sub>
+  Jl. Raya Linggapura No. 46, Kec. Tonjong, Kab. Brebes, Jawa Tengah 52271<br />
   🌐 <a href="https://smpmuhtonjong.sch.id">smpmuhtonjong.sch.id</a></sub>
 
 </div>
