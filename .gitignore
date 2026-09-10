@@ -1,0 +1,46 @@
+# Utama
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Database lokal tambahan
+/database/*.sqlite
+/database/*.sqlite-shm
+/database/*.sqlite-wal
+
+# Backup SQLite lokal
+/backup sqlite/
+
+# Installer & Build Binary (Inno Setup / Electron / NativePHP)
+/InstallerOutput/
+/dist/
+/php_engine/
+/*.exe
+/*.iss
+/*.docx
+
+# Abai folder storage public bawaan
+/storage/app/public/*
+
+# KECUALIKAN (Tetap di-track):
+!/storage/app/public/logo/
+!/storage/app/public/logo/*
+!/storage/app/public/lampiran/
+!/storage/app/public/lampiran/*
