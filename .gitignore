@@ -44,3 +44,7 @@ yarn-error.log
 !/storage/app/public/logo/*
 !/storage/app/public/lampiran/
 !/storage/app/public/lampiran/*
+
+# Kecualikan file data privat / sampel data
+*Data Pegawai*
+*Data Siswa*
